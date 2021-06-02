@@ -9,10 +9,15 @@ A game about catching Pokémon, defeating gym leaders, and watching numbers get 
 NOTE: PokéClicker is still in development!
 
 ###########################################
+
 THIS IS A MODDED VERSION.
+
 EXPECT THIS TO BREAK.
+
 PLAY THE OFFICIAL VERSION TO ACTUALLY PLAY.
+
 ###########################################
+
 
 You can try out the current state at https://www.pokeclicker.com/
 
