@@ -59,8 +59,8 @@ Routes.add(new RegionRoute(
 Routes.add(new RegionRoute(
     'Kanto Route 22', GameConstants.Region.kanto, 22,
     new RoutePokemon({
-        land: ['Rattata', 'Spearow', 'Nidoran(F)', 'Nidoran(M)', 'Mankey'],
-        water: ['Magikarp', 'Poliwag', 'Poliwhirl', 'Goldeen'],
+        land: ['Flying Pikachu', 'Spearow', 'Nidoran(F)', 'Nidoran(M)', 'Mankey'],
+        water: ['Magikarp', 'Poliwag', 'Poliwhirl', '???'],
     }),
     [new RouteKillRequirement(10, GameConstants.Region.kanto, 1)],
     1.1
